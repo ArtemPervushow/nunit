@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\NUnit.Tests1\NUnit.Tests1\bin\Debug\NUnit.Tests1.dll
+C:\Users\User\source\repos\NUnit.Tests1\NUnit.Tests1\bin\Debug\NUnit.Tests1.pdb
+C:\Users\User\source\repos\NUnit.Tests1\NUnit.Tests1\bin\Debug\nunit.framework.dll
+C:\Users\User\source\repos\NUnit.Tests1\NUnit.Tests1\bin\Debug\nunit.framework.xml
+C:\Users\User\source\repos\NUnit.Tests1\NUnit.Tests1\obj\Debug\NUnit.Tests1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\NUnit.Tests1\NUnit.Tests1\obj\Debug\NUnit.Tests1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NUnit.Tests1\NUnit.Tests1\obj\Debug\NUnit.Tests1.csproj.CopyComplete
+C:\Users\User\source\repos\NUnit.Tests1\NUnit.Tests1\obj\Debug\NUnit.Tests1.dll
+C:\Users\User\source\repos\NUnit.Tests1\NUnit.Tests1\obj\Debug\NUnit.Tests1.pdb
